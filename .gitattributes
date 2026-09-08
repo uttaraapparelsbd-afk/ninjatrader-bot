@@ -1,0 +1,9 @@
+# Do not edit manually
+# Configuration for git attributes
+public/**/*.html linguist-vendored
+*.min.css linguist-generated
+*.astro linguist-detectable
+
+*.min.js linguist-generated
+*.sh text eol=lf
+src/**/*.astro linguist-detectable
